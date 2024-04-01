@@ -13,8 +13,9 @@ El presente proyecto tiene como objetivo realizar un analisis del mercado de zap
 
 1. **Recopilación de datos:** Se obtuvo datos de ventas de zapatillas de una tienda retail de zapatillas en particular, incluyendo la fecha de lanzamiento, fecha de venta, marca, modelo, precio sugerido, precio de venta, entre otros.
 2. **Limpieza y Transformación de Datos:** Se utilizó Python para limpiar y transformar los datos, asegurando su integridad y calidad.
-3. **Análisis de Datos:** Se relizaron análisis estadísticos utilizando Excel y Power BI para exminar los patrones y tendencias en el mercado de zapatillas.
-4. **Interpretación de Resultados**: Se interpretaron los resultados del análisis depara extraer insight significativos y conclusiones relevantes.
+- [Documentación de la limpieza y transformación de datos con Python](https://www.notion.so/Documentaci-n-de-la-limpieza-y-transformaci-n-de-datos-con-Python-fb562f7508cd4b7f892af23925e284b3?pvs=4)
+4. **Análisis de Datos:** Se relizaron análisis estadísticos utilizando Excel y Power BI para exminar los patrones y tendencias en el mercado de zapatillas.
+5. **Interpretación de Resultados**: Se interpretaron los resultados del análisis depara extraer insight significativos y conclusiones relevantes.
 
 ## Resultados Clave
 
